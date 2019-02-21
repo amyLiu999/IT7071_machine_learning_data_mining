@@ -1,2 +1,2 @@
-# IT7071_maching_learning_data_mining
+# IT7071_machine_learning_data_mining
 COURSE WORK
